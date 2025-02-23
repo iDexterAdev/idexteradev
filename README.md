@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Dev.
 --------------
 
-I got started in the 'Codding Industry' from Pawn, simple coding language, for San Andreas Multiplayer game, and i am evaluation to Fullstack Developer.
-
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [idexter.channel@gmail.com](mailto:idexter.channel@gmail.com)
 * 🚀  I'm currently working on [AGLAND COMMUNITY](http://agland.ro)
