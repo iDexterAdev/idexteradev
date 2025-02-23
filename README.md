@@ -6,7 +6,7 @@ Fullstack Dev.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [idexter.channel@gmail.com](mailto:idexter.channel@gmail.com)
-* 🚀  I'm currently working on [Rised Romania](http://agland.ro)
+* 🚀  I'm currently working on [Rised Romania](http://rised.ro)
 * 🧠  I'm learning React.JS.
 * 🤝  I'm open to collaborating on to making best projects ever.
 
